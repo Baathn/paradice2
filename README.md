@@ -1,6 +1,6 @@
 # paradice
 
-Belek
+Projet d'application permettant de faire un lancer de dé 
 
 ## Getting Started
 
